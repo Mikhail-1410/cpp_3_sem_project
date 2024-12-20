@@ -1,0 +1,6 @@
+Epoch,Train_Loss,Train_Accuracy,Train_F1,Train_ROC_AUC,Val_Loss,Val_Accuracy,Val_F1,Val_ROC_AUC
+[ERROR] Exception during training epoch 0: CE: dim mismatch
+[ERROR] Exception during training epoch 0: CE: dim mismatch
+[ERROR] Exception during training epoch 0: CE: dim mismatch
+[ERROR] Exception during training epoch 0: CE: dim mismatch
+[ERROR] Exception during training epoch 0: CE: dim mismatch
